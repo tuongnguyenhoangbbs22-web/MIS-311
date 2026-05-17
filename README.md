@@ -20,3 +20,6 @@ This repository included
 - Dataset
 - Data analysis report
 - Visualisation chart
+
+Author
+Nguyen Hoang Cat Tuong
